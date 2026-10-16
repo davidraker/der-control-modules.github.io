@@ -2,3 +2,9 @@ env/
 .qodo
 __pycache__/
 *.py[cod]
+.idea/
+.vscode/
+dist/
+build/
+*.egg-info/
+*.log
