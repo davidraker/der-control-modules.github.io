@@ -1,2 +1,4 @@
 env/
 .qodo
+__pycache__/
+*.py[cod]
